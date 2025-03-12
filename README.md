@@ -14,7 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-내 신원정보 
-이름 진호 
-처음 성 정 
-신분증번호 800905-1908913 코드 입력
+
